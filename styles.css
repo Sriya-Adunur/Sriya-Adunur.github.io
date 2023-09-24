@@ -1,8 +1,8 @@
 :root {
   /* variables */
-  --cg-black: rgb(30, 32, 32);
-  --cg-blue: rgb(36, 94, 255);
-  --cg-grey: rgb(243, 243, 243);
+  --cg-black: rgb(69, 5, 41);
+  --cg-blue: rgb(5, 53, 45);
+  --cg-grey: rgb(78, 78, 78 );
   --cg-white: rgb(255, 255, 255);
 }
 
@@ -73,7 +73,7 @@ body {
 }
 
 .logo a {
-  font-family: Georgia;
+  font-family: 'Crimson Text',serif;
 }
 
 .logo a:hover {
