@@ -16,7 +16,7 @@ body {
   min-height: 100vh;
   padding: 0;
   margin: 0;
-  font-family: monospace;
+  font-family: Serif;
 }
 
 /* CSS for navigation */
@@ -55,12 +55,12 @@ body {
 
 .navbar a {
   color: var(--cg-white);
-  font-weight: bold;
+  font-weight: normal;
   margin: 0 12px;
   text-decoration: none;
   letter-spacing: 2px;
 
-  font-family: monospace;
+  font-family: Serif;
 }
 
 .navbar a:hover {
